@@ -1,9 +1,198 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="第 1 页" id="GrUcSBV1LmxB_Zs4OytL">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-1" value="普通用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="385" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" width="540" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-7" target="OocoSpa-wpcWeA7U1L3y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-7" target="OocoSpa-wpcWeA7U1L3y-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-7" target="OocoSpa-wpcWeA7U1L3y-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-9" target="OocoSpa-wpcWeA7U1L3y-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-9" target="OocoSpa-wpcWeA7U1L3y-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-9" target="OocoSpa-wpcWeA7U1L3y-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-9" target="OocoSpa-wpcWeA7U1L3y-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-9" target="OocoSpa-wpcWeA7U1L3y-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-9" value="Feistel加解密模拟" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="90" width="137.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-66" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-12" target="OocoSpa-wpcWeA7U1L3y-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-67" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-12" target="OocoSpa-wpcWeA7U1L3y-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-12" target="OocoSpa-wpcWeA7U1L3y-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-69" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-12" target="OocoSpa-wpcWeA7U1L3y-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-70" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-12" target="OocoSpa-wpcWeA7U1L3y-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-12" value="Simon算法模拟" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-15" target="OocoSpa-wpcWeA7U1L3y-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-75" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-15" target="OocoSpa-wpcWeA7U1L3y-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-15" value="量子电路模拟" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="445" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-118" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-18" target="OocoSpa-wpcWeA7U1L3y-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-119" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-18" target="OocoSpa-wpcWeA7U1L3y-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-120" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-18" target="OocoSpa-wpcWeA7U1L3y-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-121" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-18" target="OocoSpa-wpcWeA7U1L3y-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-122" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-18" target="OocoSpa-wpcWeA7U1L3y-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-18" value="Feistel量子区分模拟" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197.5" y="540" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-19" value="算法模拟" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="408" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-22" value="查看算法执行日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="140" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-25" target="OocoSpa-wpcWeA7U1L3y-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-25" value="配置参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-26" value="查看算法原理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-27" value="可视化算法过程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-30" target="OocoSpa-wpcWeA7U1L3y-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-30" target="OocoSpa-wpcWeA7U1L3y-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-30" value="管理操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-32" value="可视化交互" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-37" value="查看原理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.039;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-7" target="OocoSpa-wpcWeA7U1L3y-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-42" value="删除操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="180" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-43" value="查看操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="529" y="140" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-44" value="配置算法的参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521.5" y="220" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-58" value="查看算法原理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-59" value="可视化算法过程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-60" value="查看算法执行日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="335" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-61" target="OocoSpa-wpcWeA7U1L3y-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-61" target="OocoSpa-wpcWeA7U1L3y-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-61" value="管理操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-62" target="OocoSpa-wpcWeA7U1L3y-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-62" value="配置参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="415" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-63" value="查看操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519.5" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-64" value="删除操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="380" width="94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-65" value="配置算法的参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="415" width="101" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-88" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%9F%A5%E7%9C%8B%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22380%22%20y%3D%22260%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%E5%8F%AF%E8%A7%86%E5%8C%96%E7%AE%97%E6%B3%95%E8%BF%87%E7%A8%8B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22380%22%20y%3D%22300%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%E6%9F%A5%E7%9C%8B%E7%AE%97%E6%B3%95%E6%89%A7%E8%A1%8C%E6%97%A5%E5%BF%97%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22372%22%20y%3D%22335%22%20width%3D%22106%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20style%3D%22rounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D1%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3Bdashed%3D1%3BdashPattern%3D8%208%3B%22%20edge%3D%221%22%20source%3D%227%22%20target%3D%2210%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20style%3D%22rounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D1%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3Bdashed%3D1%3BdashPattern%3D8%208%3B%22%20edge%3D%221%22%20source%3D%227%22%20target%3D%2211%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%227%22%20value%3D%22%E7%AE%A1%E7%90%86%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22380%22%20y%3D%22370%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%228%22%20style%3D%22rounded%3D0%3BorthogonalLoop%3D1%3BjettySize%3Dauto%3Bhtml%3D1%3BexitX%3D1%3BexitY%3D0.5%3BexitDx%3D0%3BexitDy%3D0%3BentryX%3D0%3BentryY%3D0.5%3BentryDx%3D0%3BentryDy%3D0%3Bdashed%3D1%3BdashPattern%3D8%208%3B%22%20edge%3D%221%22%20source%3D%229%22%20target%3D%2212%22%20parent%3D%221%22%3E%3CmxGeometry%20relative%3D%221%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%229%22%20value%3D%22%E9%85%8D%E7%BD%AE%E5%8F%82%E6%95%B0%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22380%22%20y%3D%22415%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2210%22%20value%3D%22%E6%9F%A5%E7%9C%8B%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22519.5%22%20y%3D%22340%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2211%22%20value%3D%22%E5%88%A0%E9%99%A4%E6%93%8D%E4%BD%9C%E6%97%A5%E5%BF%97%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22517.5%22%20y%3D%22380%22%20width%3D%2294%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%2212%22%20value%3D%22%E9%85%8D%E7%BD%AE%E7%AE%97%E6%B3%95%E7%9A%84%E5%8F%82%E6%95%B0%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22514%22%20y%3D%22415%22%20width%3D%22101%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-112" value="查看算法原理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-113" value="可视化算法过程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="372" y="570" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-114" value="查看算法执行日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="610" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-125" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-115" target="OocoSpa-wpcWeA7U1L3y-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-126" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="OocoSpa-wpcWeA7U1L3y-115" target="OocoSpa-wpcWeA7U1L3y-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-115" value="管理操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="369" y="650" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-116" value="配置参数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="690" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-123" value="查看操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="630" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OocoSpa-wpcWeA7U1L3y-124" value="删除操作日志" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496" y="660" width="94" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
