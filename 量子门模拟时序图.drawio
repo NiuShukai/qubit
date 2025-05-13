@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="27.0.4">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,6 +165,578 @@
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-46" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="960" y="30" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+          <mxGeometry x="100" y="680" width="35" height="2878" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-2" value="Principle3Page" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="314" y="680" width="150" height="2878" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-3" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-2">
+          <mxGeometry x="70" y="109" width="10" height="1648" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-4" value="ContentViewer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="628" y="680" width="150" height="2878" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-5" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-4">
+          <mxGeometry x="70" y="1801" width="10" height="982" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-6" value="ContentBuilder" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="828" y="680" width="150" height="2878" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-7" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-6">
+          <mxGeometry x="70" y="163" width="10" height="1428" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-8" value="QuantumGraphic" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="680" width="150" height="2878" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-9" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-8">
+          <mxGeometry x="70" y="2125" width="10" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-10" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-8">
+          <mxGeometry x="70" y="2341" width="10" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-11" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-8">
+          <mxGeometry x="70" y="2557" width="10" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-12" value="BlochSphere" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1327" y="680" width="150" height="2878" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-13" value="访问量子门原理页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-1" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="291" y="789" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-14" value="创建ContentBuilder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="657" y="843" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-15" value="builder.paragraph(LogicGatesGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="897" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-16" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="951" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-17" value="builder.paragraph(NotGateGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-18" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="1059" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-19" value="builder.paragraph(AndGateGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1113" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-20" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="1167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-21" value="builder.paragraph(BlochSphereGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1221" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-22" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="1275" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-23" value="builder.paragraph(QuantumGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-24" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="1431" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-25" value="builder.paragraph(QuantumGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1485" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-26" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="1587" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-27" value="builder.paragraph(QuantumGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1641" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-28" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="1743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-29" value="builder.paragraph(EntanglementGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1797" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-30" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="1851" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-31" value="builder.paragraph(QuantumGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-32" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="2007" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-33" value="builder.paragraph(QuantumGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="2061" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-34" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="2163" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-35" value="builder.build()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="2217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-36" value="返回scenes数组" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-7" target="3lRFRLL_CVhfYFaAorWH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="2271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-37" value="创建ContentViewer组件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="557" y="2325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-38" value="渲染页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-3" target="3lRFRLL_CVhfYFaAorWH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="2427" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-39" value="查看内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-1" target="3lRFRLL_CVhfYFaAorWH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="448" y="2481" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-40" value="显示第一个场景(LogicGatesGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-5" target="3lRFRLL_CVhfYFaAorWH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="2535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-41" value="滚动/点击下一步" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-1" target="3lRFRLL_CVhfYFaAorWH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="446" y="2589" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-42" value="显示第二个场景(NotGateGraphic)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-5" target="3lRFRLL_CVhfYFaAorWH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="2643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-43" value="继续浏览" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-1" target="3lRFRLL_CVhfYFaAorWH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="446" y="2697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-44" value="显示更多场景" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-5" target="3lRFRLL_CVhfYFaAorWH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="2751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-45" value="点击&quot;Pauli X门&quot;演示按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-1" target="3lRFRLL_CVhfYFaAorWH-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="2805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-46" value="更新BlochSphere状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-9" target="3lRFRLL_CVhfYFaAorWH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1286" y="2859" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-47" value="返回动画效果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-12" target="3lRFRLL_CVhfYFaAorWH-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1289" y="2913" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-48" value="展示量子比特状态变化" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-9" target="3lRFRLL_CVhfYFaAorWH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="671" y="2967" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-49" value="点击&quot;Hadamard门&quot;演示按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-1" target="3lRFRLL_CVhfYFaAorWH-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="3021" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-50" value="更新BlochSphere状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-10" target="3lRFRLL_CVhfYFaAorWH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1286" y="3075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-51" value="返回动画效果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-12" target="3lRFRLL_CVhfYFaAorWH-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1289" y="3129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-52" value="展示量子叠加态形成" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-10" target="3lRFRLL_CVhfYFaAorWH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="671" y="3183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-53" value="点击&quot;CX门&quot;演示按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-1" target="3lRFRLL_CVhfYFaAorWH-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="3237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-54" value="更新两个BlochSphere状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-11" target="3lRFRLL_CVhfYFaAorWH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1286" y="3291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-55" value="返回动画效果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-12" target="3lRFRLL_CVhfYFaAorWH-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1289" y="3345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-56" value="展示量子纠缠效果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-11" target="3lRFRLL_CVhfYFaAorWH-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="671" y="3399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-57" value="完成学习" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-1" target="3lRFRLL_CVhfYFaAorWH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="446" y="3453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-58" value="配置Pauli X门参数" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="928" y="1349" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-59" value="配置另一个Pauli X门示例" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="928" y="1505" width="195" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-60" value="配置Hadamard门参数" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="928" y="1661" width="175" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-61" value="配置CX门参数" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="928" y="1925" width="150" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-62" value="配置另一个CX门示例" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="928" y="2081" width="167" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-63" value="传入chapter, index, scenes和quote" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="414" y="2345" width="264" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-64" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="98" y="3580" width="35" height="1469" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-100" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-64">
+          <mxGeometry x="12.5" y="77" width="10" height="1363" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-65" value="Principle3Page" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="314" y="3580" width="150" height="1469" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-66" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-65">
+          <mxGeometry x="70" y="109" width="10" height="455" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-67" value="ContentBuilder" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="643" y="3580" width="150" height="1469" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-68" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-67">
+          <mxGeometry x="65" y="163" width="10" height="283" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-69" value="ContentViewer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="978" y="3580" width="150" height="1469" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-70" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-69">
+          <mxGeometry x="70" y="608" width="10" height="766" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-71" value="QuantumGraphic" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1178" y="3580" width="150" height="1469" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-72" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-71">
+          <mxGeometry x="70" y="716" width="10" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-73" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-71">
+          <mxGeometry x="70" y="932" width="10" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-74" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=20;" vertex="1" parent="3lRFRLL_CVhfYFaAorWH-71">
+          <mxGeometry x="70" y="1148" width="10" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-75" value="BlochSphere" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1432" y="3580" width="150" height="1469" as="geometry" />
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-76" value="访问量子门原理页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-64" target="3lRFRLL_CVhfYFaAorWH-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="291" y="3689" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-77" value="创建ContentBuilder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-66" target="3lRFRLL_CVhfYFaAorWH-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="564" y="3743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-78" value="配置多个paragraph(各种量子门组件)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-66" target="3lRFRLL_CVhfYFaAorWH-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="3797" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-79" value="返回builder实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-68" target="3lRFRLL_CVhfYFaAorWH-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="3918" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-80" value="builder.build()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-66" target="3lRFRLL_CVhfYFaAorWH-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="562" y="3972" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-81" value="返回scenes数组" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-68" target="3lRFRLL_CVhfYFaAorWH-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="4026" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-82" value="创建ContentViewer组件(chapter, index, scenes, quote)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-66" target="3lRFRLL_CVhfYFaAorWH-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="732" y="4080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-83" value="渲染页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-66" target="3lRFRLL_CVhfYFaAorWH-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="4134" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-84" value="浏览内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-64" target="3lRFRLL_CVhfYFaAorWH-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="623" y="4188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-85" value="按顺序展示各个量子门场景" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-70" target="3lRFRLL_CVhfYFaAorWH-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="624" y="4242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-86" value="点击&quot;Pauli X门&quot;演示按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-64" target="3lRFRLL_CVhfYFaAorWH-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="723" y="4296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-87" value="更新BlochSphere状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-72" target="3lRFRLL_CVhfYFaAorWH-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1391" y="4350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-88" value="返回动画效果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-75" target="3lRFRLL_CVhfYFaAorWH-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1394" y="4404" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-89" value="展示量子比特状态变化(0→1)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-72" target="3lRFRLL_CVhfYFaAorWH-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="724" y="4458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-90" value="点击&quot;Hadamard门&quot;演示按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-64" target="3lRFRLL_CVhfYFaAorWH-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="723" y="4512" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-91" value="更新BlochSphere状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-73" target="3lRFRLL_CVhfYFaAorWH-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1391" y="4566" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-92" value="返回动画效果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-75" target="3lRFRLL_CVhfYFaAorWH-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1394" y="4620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-93" value="展示量子叠加态形成(0→50%0+50%1)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-73" target="3lRFRLL_CVhfYFaAorWH-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="724" y="4674" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-94" value="点击&quot;CX门&quot;演示按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-64" target="3lRFRLL_CVhfYFaAorWH-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="723" y="4728" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-95" value="更新两个BlochSphere状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-74" target="3lRFRLL_CVhfYFaAorWH-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1391" y="4782" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-96" value="返回动画效果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-75" target="3lRFRLL_CVhfYFaAorWH-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1394" y="4836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-97" value="展示量子纠缠效果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-74" target="3lRFRLL_CVhfYFaAorWH-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="724" y="4890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-98" value="完成学习" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="3lRFRLL_CVhfYFaAorWH-64" target="3lRFRLL_CVhfYFaAorWH-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="621" y="4944" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3lRFRLL_CVhfYFaAorWH-99" value="包括LogicGates, NotGate, AndGate,&#xa;BlochSphere, 多个QuantumGraphic等" style="fillColor=none;strokeColor=#9E916F;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="746" y="3774" width="377" height="103" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
