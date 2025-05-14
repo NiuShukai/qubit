@@ -1,9 +1,281 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="27.0.4">
   <diagram name="第 1 页" id="yPeeQiK_v5DVuWTa9PUa">
-    <mxGraphModel>
+    <mxGraphModel dx="1040" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="35" height="2153" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-2" value="SimonLayout" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="273" y="20" width="150" height="2153" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-3" value="Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="494" y="20" width="150" height="2153" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-4" value="SimonAlgorithm" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="708" y="20" width="150" height="2153" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-5" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="RliqVKYl3p-PZVq4Bf_R-4">
+          <mxGeometry x="70" y="797" width="10" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-6" value="Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="908" y="20" width="150" height="2153" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-7" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="20" width="150" height="2153" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-8" value="" style="points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0}" vertex="1" parent="RliqVKYl3p-PZVq4Bf_R-7">
+          <mxGeometry x="70" y="325" width="10" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-9" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="337" y="736" width="857" height="472" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-10" value="[参数有效]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=17;" vertex="1" parent="RliqVKYl3p-PZVq4Bf_R-9">
+          <mxGeometry x="30" width="827" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-11" value="[参数无效]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontSize=17;" vertex="1" parent="RliqVKYl3p-PZVq4Bf_R-9">
+          <mxGeometry y="376" width="857" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-12" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="84" y="1643" width="1110" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-13" value="[记录操作]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=17;" vertex="1" parent="RliqVKYl3p-PZVq4Bf_R-12">
+          <mxGeometry x="30" width="1080" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-14" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="74" y="527" width="1130" height="1551" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-15" value="[运行新算法]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=17;" vertex="1" parent="RliqVKYl3p-PZVq4Bf_R-14">
+          <mxGeometry x="30" width="1100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-16" value="[查看历史记录]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontSize=17;" vertex="1" parent="RliqVKYl3p-PZVq4Bf_R-14">
+          <mxGeometry y="696" width="1130" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-17" value="访问Simon量子算法页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-1" target="RliqVKYl3p-PZVq4Bf_R-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-18" value="初始化控制器" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-2" target="RliqVKYl3p-PZVq4Bf_R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-19" value="创建算法实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-20" value="getAlgorithmExecutions()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-21" value="查询执行记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-6" target="RliqVKYl3p-PZVq4Bf_R-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-22" value="返回执行记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-8" target="RliqVKYl3p-PZVq4Bf_R-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1093" y="399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-23" value="返回执行记录列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-6" target="RliqVKYl3p-PZVq4Bf_R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="788" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-24" value="更新UI显示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="507" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-25" value="设置参数并点击&quot;运行&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-1" target="RliqVKYl3p-PZVq4Bf_R-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-26" value="runAlgorithm()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-2" target="RliqVKYl3p-PZVq4Bf_R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="662" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-27" value="validateParameters()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="716" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-28" value="execute()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="817" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-29" value="返回执行结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-5" target="RliqVKYl3p-PZVq4Bf_R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="686" y="871" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-30" value="更新可视化" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-31" value="saveExecution()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="979" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-32" value="保存记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-6" target="RliqVKYl3p-PZVq4Bf_R-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1092" y="1033" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-33" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-7" target="RliqVKYl3p-PZVq4Bf_R-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1095" y="1087" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-34" value="显示错误信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="1188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-35" value="点击&quot;历史记录&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-1" target="RliqVKYl3p-PZVq4Bf_R-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="1299" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-36" value="getExecutionHistory()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-2" target="RliqVKYl3p-PZVq4Bf_R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="1353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-37" value="getAlgorithmExecutions()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="1407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-38" value="查询记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-6" target="RliqVKYl3p-PZVq4Bf_R-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1092" y="1461" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-39" value="返回记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-7" target="RliqVKYl3p-PZVq4Bf_R-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1095" y="1515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-40" value="返回记录列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-6" target="RliqVKYl3p-PZVq4Bf_R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="788" y="1569" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-41" value="更新显示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="1623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-42" value="选择操作(查看/编辑/删除)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-1" target="RliqVKYl3p-PZVq4Bf_R-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="1724" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-43" value="对应操作方法(id)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-2" target="RliqVKYl3p-PZVq4Bf_R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="1778" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-44" value="相应服务方法(id)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="1832" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-45" value="数据库操作" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-6" target="RliqVKYl3p-PZVq4Bf_R-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1092" y="1886" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-46" value="返回结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-7" target="RliqVKYl3p-PZVq4Bf_R-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1095" y="1940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-47" value="返回操作结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-6" target="RliqVKYl3p-PZVq4Bf_R-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="788" y="1994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RliqVKYl3p-PZVq4Bf_R-48" value="更新UI显示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=19;" edge="1" parent="1" source="RliqVKYl3p-PZVq4Bf_R-3" target="RliqVKYl3p-PZVq4Bf_R-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="2048" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
